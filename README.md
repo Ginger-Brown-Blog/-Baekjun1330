@@ -1,22 +1,3 @@
 # -Baekjun1330
-//백준 1330문제
-#include <stdio.h>
-int main() {
-	int a, b;
-	printf("Pleas Enter a Value:");
-	scanf_s("%d", &a);
-	printf("\n");
-	printf("Pleas Enter b Value:");
-	scanf_s("%d", &b);
-	printf("\n");
-	if(a > b){
-		printf(">");
-	}
-	if (a < b) {
-		printf("<");
-	}
-	if (a == b) {
-		printf("==");
-	}
-	return 0;
-}  
+안녕하세요, 여긴 진저브라운의 오픈소스를 공유하는 사이트입니다.
+문제풀이 / 자체개발 프로그램 등등 많은것을 올려두는 깃헙 - GinGerBrownBlog입니다.
